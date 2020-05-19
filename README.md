@@ -5,13 +5,13 @@ In python we have the module selenium for automation to create a bot
 
 tkinter:-tkinter is a module used for python gui application.facebook bot was written with gui
 
-#Installation of selenium
+# Installation of selenium
 
 pip3 install selenium
 
-#Installation of chromedriver in ubuntu
+# Installation of chromedriver in ubuntu
 
-wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip
+ wget https://chromedriver.storage.googleapis.com/2.41/chromedriver_linux64.zip
 
 unzip chromedriver_linux64.zip
 
@@ -21,7 +21,7 @@ sudo chown root:root /usr/bin/chromedriver
 
 sudo chmod +x /usr/bin/chromedriver
 
-#Installation of chromedriver in Windows 
+# Installation of chromedriver in Windows 
 
 Go to this Website
 
